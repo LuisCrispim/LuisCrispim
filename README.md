@@ -1,44 +1,35 @@
-<h1 align="center"> # Luís Felipe Crispim </h1>
+<h1 align="center">Luís Felipe Crispim</h1>
 
-
-**QA Tester | Automação de Testes | Testes Manuais | Marketing**
-
-Sou apaixonado por **qualidade de software**, com experiência em **automação de testes** e **testes manuais**. Meu objetivo é garantir que cada produto entregue tenha alta qualidade e funcionalidade, utilizando as melhores práticas de **metodologias ágeis**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-- **Automação de Testes**: Cypress, Selenium, Postman
-- **Testes Manuais**: Escrita de casos de teste, cenários e testes de regressão
-- **Linguagens de Programação**: JavaScript
-- **Metodologias Ágeis**: Scrum, Kanban
-- **Controle de Versão**: Git
-- **Ferramentas de Gestão**: Jira, Trello
-- **Bancos de Dados**: MySQL, MongoDB
-- **Frontend**: React.JS
+<p align="center">
+<strong>QA Tester | Automação de Testes | Testes Manuais | Marketing</strong><br>
+Sou apaixonado por <strong>qualidade de software</strong>, com experiência em <strong>automação de testes</strong> e <strong>testes manuais</strong>. Meu objetivo é garantir que cada produto entregue tenha alta qualidade e funcionalidade, utilizando as melhores práticas de <strong>metodologias ágeis</strong>.
+</p>
 
 ---
 
-### 📂 Projetos Principais
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 
-1. **[Projeto de Automação com Cypress](#)**  
-   Implementação de testes end-to-end para uma aplicação web, garantindo a integridade e usabilidade em diversos fluxos.
-   
-2. **[Testes de API com Postman](#)**  
-   Testes de API automatizados para verificar a consistência e segurança das funcionalidades backend.
-
-3. **[Projeto Selenium](#)**  
-   Automação de testes de interface com Selenium, validando a performance e experiência do usuário em um sistema web.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
 ---
 
-### 🧑‍💻 Contato
+<h3 align="center">🧑‍💻 Contato</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/luís-felipe-crispim)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/LuisCrispim)
-
----
-
-### ⚡ Fatos Rápidos
-- 📚 Sempre buscando novos conhecimentos sobre **QA** e **automação de testes**.
-- 🚀 Comprometido com a **melhoria contínua** e otimização de processos em projetos de software.
+<p align="center">
+  <a href="https://linkedin.com/in/luís-felipe-crispim">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github
