@@ -10,7 +10,6 @@ Sou apaixonado por <strong>qualidade de software</strong>, com experiência em <
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 
 <h3 align="center">📋 Testes e Automação</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -18,14 +17,12 @@ Sou apaixonado por <strong>qualidade de software</strong>, com experiência em <
 </p>
 
 <h3 align="center">💻 Linguagens e Frameworks</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-<h3 align="center">🗂️ Gerenciamento de Projetos </h3
-                                                 
+<h3 align="center">🗂️ Gerenciamento de Projetos </h3                                                 
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
   <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban"/>
