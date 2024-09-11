@@ -9,7 +9,8 @@ Sou apaixonado por <strong>qualidade de software</strong>, com experiência em <
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 
-### 📋 Testes e Automação
+<h3 align="center">🛠️ Testes e Automação</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
