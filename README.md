@@ -1,7 +1,7 @@
 <h1 align="center">Luís Felipe Crispim</h1>
 
 <p align="center">
-<strong>QA Tester | Automação de Testes | Testes Manuais | marketing</strong><br>
+<strong>QA Tester | Automação de Testes | Testes Manuais | Marketing</strong><br>
 Sou apaixonado por <strong>qualidade de software</strong>, com sólido conhecimento em <strong>automação de testes</strong> e <strong>testes manuais</strong>. Meu objetivo é garantir que cada produto entregue tenha alta qualidade e funcionalidade, utilizando as melhores práticas de <strong>metodologias ágeis</strong>.
 </p>
 
