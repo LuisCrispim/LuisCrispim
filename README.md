@@ -59,6 +59,5 @@ Sou apaixonado por <strong>qualidade de software</strong>, com sólido conhecime
 <h3 align="center">⚡ Fatos Rápidos</h3>
 
 <p align="center">
-📚 Sempre buscando novos conhecimentos sobre <strong>QA</strong> e <strong>automação de testes</strong>.<br>
-🚀 Comprometido com a <strong>melhoria contínua</strong> e otimização de processos em projetos de software.
-</p>
+📚 No momento atuando como Analista de QA voluntário em um projeto de sistema interno para a ONG ABNMO.<br>
+>
