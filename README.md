@@ -49,9 +49,9 @@ Sou apaixonado por <strong>qualidade de software</strong>, com sólido conhecime
   <a href="https://linkedin.com/in/luís-felipe-crispim">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/LuisCrispim">
+<!--   <a href="https://github.com/LuisCrispim">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
-  </a><br>
+  </a><br> -->
   <a href="mailto:luisfelipecrispim@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
