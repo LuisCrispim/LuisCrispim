@@ -45,14 +45,19 @@ Sou apaixonado por <strong>qualidade de software</strong>, com sólido conhecime
 
 <h3 align="center">🧑‍💻 Contato</h3>
 
+<p align="center">
   <a href="https://linkedin.com/in/luís-felipe-crispim">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/LuisCrispim">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
   </a><br>
-  <strong>Email:</strong> <a href="mailto:luisfelipecrispim@hotmail.com">luisfelipecrispim@hotmail.com</a><br>
-  <strong>WhatsApp:</strong> <a href="https://wa.me/5521982068330">+55 21 98206-8330</a>
+  <a href="mailto:luisfelipecrispim@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/5521982068330">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
